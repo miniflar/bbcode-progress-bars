@@ -1,6 +1,6 @@
 # MiniFLAR BBCode Progress Bars
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge) [![Latest Stable Version](https://img.shields.io/packagist/v/miniflar/bbode-progress-bars.svg?style=for-the-badge)](https://packagist.org/packages/miniflar/bbode-progress-bars) [![PayPal](https://img.shields.io/badge/paypal-ralkage-4cl?style=for-the-badge&logo=paypal)](https://paypal.me/ralkage)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge) [![Latest Stable Version](https://img.shields.io/packagist/v/miniflar/bbcode-progress-bars.svg?style=for-the-badge)](https://packagist.org/packages/miniflar/bbcode-progress-bars) [![PayPal](https://img.shields.io/badge/paypal-ralkage-4cl?style=for-the-badge&logo=paypal)](https://paypal.me/ralkage)
 
 A [Flarum](http://flarum.org) extension. Embed progress bars inside Flarum posts using BBCode.
 
@@ -13,7 +13,7 @@ This will also install [flarum/bbcode](https://github.com/flarum/bbcode) as it r
 Install with composer:
 
 ```sh
-composer require miniflar/bbode-progress-bars:"*"
+composer require miniflar/bbcode-progress-bars:"*"
 ```
 
 ## Usage
@@ -38,8 +38,8 @@ composer require miniflar/bbode-progress-bars:"*"
 
 ## Links
 
-- [Packagist](https://packagist.org/packages/miniflar/bbode-progress-bars)
-- [GitHub](https://github.com/miniflar/bbode-progress-bars)
+- [Packagist](https://packagist.org/packages/miniflar/bbcode-progress-bars)
+- [GitHub](https://github.com/miniflar/bbcode-progress-bars)
 - [Discuss](https://discuss.flarum.org/d/28694)
 - [0E800's BBCode Progress Bar Extension](https://github.com/0E800/flarum-ext-bbcode-bars)
 
