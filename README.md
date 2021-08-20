@@ -40,7 +40,7 @@ composer require miniflar/bbode-progress-bars:"*"
 
 - [Packagist](https://packagist.org/packages/miniflar/bbode-progress-bars)
 - [GitHub](https://github.com/miniflar/bbode-progress-bars)
-- [Discuss](https://discuss.flarum.org/d/{DISCUSS_SLUG_TBD})
+- [Discuss](https://discuss.flarum.org/d/28694)
 - [0E800's BBCode Progress Bar Extension](https://github.com/0E800/flarum-ext-bbcode-bars)
 
 An extension by [miniFLAR](https://github.com/miniflar).
